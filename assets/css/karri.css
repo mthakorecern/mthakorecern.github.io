@@ -14,13 +14,13 @@ Cool Grey #8C92AC
 html,body {
   margin: 0;
   padding: 0;
-  font-family: "TeXGyreAdventorRegular", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 100;
   font-size: 18px;
   line-height: 1.5;
 }
 a {/* link formating*/
-  font-family: "TeXGyreAdventorRegular", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 100;
   color:  #5995ED;
   text-decoration: none;
